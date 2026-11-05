@@ -1,289 +1,419 @@
 
-# ☁️ IN CLOUD – Your Digital World, All in One Place!
+# ☁️ IN CLOUD PRO – Your Digital World, All in One Place! ❤️
 
-### 📸 Store • 🎵 Organize • 📁 Manage • ❤️ Share
+### 📸 Store • 🎬 Watch • 🎵 Listen • 📁 Manage • 👥 Connect
 
-Welcome to **IN CLOUD**! ❤️
+Welcome to **IN CLOUD PRO!** 🚀
 
-IN CLOUD is a modern, multi-functional Cloud Storage & Social Platform designed to make your digital life easier, smarter, and more organized.
+IN CLOUD PRO is a modern, multi-functional Cloud Storage & Social Platform যেখানে আপনি আপনার প্রয়োজনীয় Photos, Videos, Music, Audio, PDF, Documents এবং অন্যান্য Digital Files এক জায়গায় Upload, Store, Download এবং Manage করতে পারবেন।
 
-এখন থেকে আপনার প্রয়োজনীয় Photos, Videos, Music, Audio, PDF, Documents এবং অন্যান্য গুরুত্বপূর্ণ Files এক জায়গায় Upload, Store, Download এবং Manage করতে পারবেন।
+এটি শুধু একটি সাধারণ Cloud Storage Application নয়। এখানে Cloud Storage-এর পাশাপাশি রয়েছে Social Feed, Create Posts, Stories, User Profiles, Chat, Notes, Favorites, Marketplace, Leaderboard এবং আরও অনেক দরকারি Tools ও Features।
 
-শুধু Cloud Storage নয়, IN CLOUD-এর মধ্যে রয়েছে Social Feed, Posts, Stories, User Profiles, Chat, Notes, Favorites, Marketplace এবং আরও অনেক আকর্ষণীয় Features।
+আমাদের উদ্দেশ্য হলো একটি সুন্দর, আধুনিক, সহজে ব্যবহারযোগ্য এবং Feature-Rich Digital Platform তৈরি করা, যেখানে একজন ব্যবহারকারী একই জায়গায় Storage, Social Networking এবং Daily Useful Tools উপভোগ করতে পারবেন।
 
-আমাদের লক্ষ্য হলো একটি সুন্দর, আধুনিক এবং User-Friendly Platform তৈরি করা, যেখানে Storage, Social Networking এবং Daily Useful Tools একই জায়গায় পাওয়া যাবে।
+━━━━━━━━━━━━━━━━━━━━
 
----
+# ✨ 1. MAIN FEATURES
 
-## ✨ 🌐 MAIN FEATURES
+## 📸 Photo Cloud Storage
 
-### 📸 1. Photo Cloud Storage
+আপনার মূল্যবান ছবি এবং জীবনের সুন্দর স্মৃতিগুলো এক জায়গায় সংরক্ষণ করুন।
 
-আপনার মূল্যবান ছবি এবং স্মৃতিগুলো এক জায়গায় সংরক্ষণ করুন।
+IN CLOUD PRO-এর Photo Storage System ব্যবহার করে আপনি:
 
-✅ Upload your favorite photos.
-✅ View your uploaded photo collection.
-✅ Download photos anytime.
-✅ Download All option.
-✅ Search your photos easily.
-✅ Sort photos by Newest & Oldest.
-✅ Save important photos to Favorites.
-✅ Delete unwanted photos.
-✅ Beautiful photo gallery with modern grid layout.
+✅ নিজের পছন্দের Photos Upload করতে পারবেন।
 
-আপনার প্রয়োজনীয় ছবিগুলো সুন্দরভাবে সাজিয়ে রাখুন এবং যখন ইচ্ছা তখন আবার Download করুন।
+✅ Upload করা Photos Gallery-তে দেখতে পারবেন।
 
-### 🎁 2. Watch Ads & Get More Storage
+✅ যেকোনো সময় নিজের Photos Download করতে পারবেন।
 
-One of the special features of IN CLOUD!
+✅ Download All অপশন ব্যবহার করে একসঙ্গে Photos Download করতে পারবেন।
 
-IN CLOUD-এ রয়েছে একটি Rewarded Advertisement Based Expandable Photo Storage System।
+✅ Newest এবং Oldest অনুযায়ী Photos সাজাতে পারবেন।
 
-প্রাথমিকভাবে ব্যবহারকারীরা নির্দিষ্ট সংখ্যক Photo Slots পাবেন। যখন অতিরিক্ত Storage প্রয়োজন হবে, তখন একটি Rewarded Advertisement দেখে আরও ৫টি Photo Slots যোগ করতে পারবেন।
+✅ Search করে নির্দিষ্ট Photos খুঁজে নিতে পারবেন।
 
-**How It Works:**
+✅ গুরুত্বপূর্ণ Photos Favorites-এ রাখতে পারবেন।
 
-🎯 Start with your available photo slots.
+✅ অপ্রয়োজনীয় Photos Delete করতে পারবেন।
 
-📺 Watch a rewarded advertisement.
+✅ সুন্দর Grid Layout-এ নিজের Photo Collection দেখতে পারবেন।
 
-🎁 Get +5 additional photo slots.
+📷 **Your Memories, Always Within Reach!**
 
-🔄 Repeat whenever additional slots are available.
+## 🎁 2. WATCH ADS & GET MORE STORAGE
 
-অর্থাৎ প্রতিবার একটি বিজ্ঞাপন দেখলে অতিরিক্ত ৫টি ছবি রাখার জায়গা পাওয়ার সুযোগ রয়েছে।
+IN CLOUD PRO-এর অন্যতম আকর্ষণীয় সুবিধা হলো Rewarded Advertisement Based Expandable Photo Storage System।
 
-এভাবে বিজ্ঞাপন দেখার মাধ্যমে ধাপে ধাপে নিজের Photo Storage Capacity বাড়াতে পারবেন।
+সাধারণত অনেক Storage Platform-এ নির্দিষ্ট Free Storage Limit থাকে। কিন্তু IN CLOUD PRO-তে বিজ্ঞাপন দেখার মাধ্যমে অতিরিক্ত Photo Slots পাওয়ার সুযোগ রয়েছে।
 
-**Watch Ads – Get More Slots – Store More Memories! ❤️**
+### 🎯 How Does It Work?
 
-### 🎬 3. Video Storage
+🟢 প্রথমে ব্যবহারকারীরা নির্ধারিত Photo Slots পাবেন।
 
-আপনার প্রয়োজনীয় Video Files এক জায়গায় সংরক্ষণ ও পরিচালনা করুন।
+📺 Storage শেষ হয়ে গেলে Rewarded Advertisement দেখার সুযোগ থাকবে।
 
-✅ Upload videos.
-✅ Manage your video collection.
-✅ Access your saved videos.
+🎁 একটি Advertisement সফলভাবে দেখার বিনিময়ে অতিরিক্ত ৫টি Photo Slots পাওয়া যাবে।
 
-### 🎵 4. Music & Audio Storage
+🔄 প্রয়োজন অনুযায়ী আবার Advertisement দেখে আরও ৫টি Photo Slots যোগ করতে পারবেন।
 
-আপনার পছন্দের Music, Audio এবং অন্যান্য Sound Files নিজের Collection-এ রাখুন।
+### ❤️ More Ads = More Photo Slots!
 
-🎧 Upload Music & Audio.
-🎧 Organize your audio collection.
-🎧 Access saved audio files.
+অর্থাৎ যতবার অতিরিক্ত Slot পাওয়ার সুযোগ থাকবে, ততবার বিজ্ঞাপন দেখে নিজের Photo Storage Capacity বাড়াতে পারবেন।
 
-### 📁 5. Files & Documents
+এটি একটি Ad-Supported Expandable Storage Experience, যা ব্যবহারকারীদের অতিরিক্ত ছবি রাখার সুযোগ দেয়।
 
-আপনার গুরুত্বপূর্ণ Digital Documents এক জায়গায় রাখুন।
+**Watch Ads – Earn More Slots – Save More Memories! ☁️**
 
-📄 PDF Files
-📄 Documents
-📄 Important Files
+## 🎬 3. VIDEO STORAGE
+
+আপনার গুরুত্বপূর্ণ Video Files এক জায়গায় রাখুন।
+
+এই Section ব্যবহার করে আপনি:
+
+✅ Videos Upload করতে পারবেন।
+
+✅ নিজের Video Collection পরিচালনা করতে পারবেন।
+
+✅ সংরক্ষিত Videos Access করতে পারবেন।
+
+✅ প্রয়োজন অনুযায়ী Supported Videos Manage করতে পারবেন।
+
+🎥 **Keep Your Favorite Moments Together!**
+
+## 🎵 4. MUSIC & AUDIO STORAGE
+
+আপনার পছন্দের গান, অডিও এবং অন্যান্য Sound Files নিজের Collection-এ সংরক্ষণ করুন।
+
+🎧 Music Files Upload করুন।
+
+🎧 Audio Files সংরক্ষণ করুন।
+
+🎧 নিজের Audio Collection পরিচালনা করুন।
+
+🎧 প্রয়োজন অনুযায়ী সংরক্ষিত Files Access করুন।
+
+🎶 **Your Music, Your Collection!**
+
+## 📁 5. FILES & DOCUMENTS
+
+আপনার গুরুত্বপূর্ণ Digital Documents এবং Files এক জায়গায় সংরক্ষণ করুন।
+
+এই Section-এ Supported File Types অনুযায়ী রাখতে পারবেন:
+
+📄 PDF Documents
+
+📄 Important Documents
+
+📄 Personal Files
+
 📄 Other Supported File Types
 
-Upload, organize এবং প্রয়োজন অনুযায়ী নিজের Files Manage করুন।
+আপনার প্রয়োজনীয় Files Upload করে রাখুন এবং পরে প্রয়োজন অনুযায়ী সেগুলো Access ও Manage করুন।
 
-### 📂 6. Folder Management
+## 📂 6. FOLDER MANAGEMENT
 
-Keep your digital world organized!
+সব Files এলোমেলোভাবে না রেখে সুন্দরভাবে সাজিয়ে রাখুন।
 
-📁 Create and manage folders.
-📁 Organize your files.
-📁 Keep your content structured.
-📁 Find your files more easily.
+📁 Folder তৈরি ও পরিচালনা করুন।
 
-### ⭐ 7. Favorites
+📁 নিজের Files Organize করুন।
 
-আপনার সবচেয়ে পছন্দের এবং গুরুত্বপূর্ণ Content Favorites-এ রাখুন।
+📁 আলাদা আলাদা Content সাজিয়ে রাখুন।
 
-❤️ Save favorite content.
-❤️ Access important items easily.
-❤️ Keep your selected content organized.
+📁 প্রয়োজনীয় Files সহজে খুঁজে নিন।
 
----
+**Stay Organized, Stay Smart!**
 
-## 👥 8. SOCIAL MEDIA & COMMUNITY
+## ⭐ 7. FAVORITES
 
-IN CLOUD শুধু একটি Cloud Storage App নয়। এখানে রয়েছে একটি Social Networking Experience!
+আপনার সবচেয়ে পছন্দের এবং গুরুত্বপূর্ণ Content Favorites-এ সংরক্ষণ করুন।
 
-### 📝 Social Feed
-- Explore the For You section.
-- View community posts.
-- Share your own posts.
-- Stay connected with the platform.
+❤️ Favorite Items নির্বাচন করুন।
 
-### 📸 Create Posts
-- Create text-based posts.
-- Share images with your posts.
-- View your published posts.
-- Manage your own content.
+❤️ গুরুত্বপূর্ণ Content আলাদা করে রাখুন।
+
+❤️ প্রয়োজনের সময় সহজে খুঁজে নিন।
+
+━━━━━━━━━━━━━━━━━━━━
+
+# 👥 8. SOCIAL MEDIA & COMMUNITY FEATURES
+
+IN CLOUD PRO শুধু একটি Storage Application নয়। এখানে রয়েছে একটি Social Community Experience!
+
+### 📰 Social Feed
+
+অন্যদের Posts দেখুন এবং নিজের Content Share করুন।
+
+✨ Explore For You Section।
+
+✨ Community Posts দেখুন।
+
+✨ নিজের Posts Share করুন।
+
+✨ নতুন Content Explore করুন।
+
+### 📝 Create Posts
+
+নিজের মনের কথা, ছবি এবং বিভিন্ন মুহূর্ত Share করুন।
+
+📌 Text-Based Posts তৈরি করুন।
+
+📸 Images যুক্ত করে Posts Share করুন।
+
+❤️ নিজের Published Posts দেখতে পারবেন।
+
+📝 নিজের Content পরিচালনা করতে পারবেন।
 
 ### 📖 Stories
-- Create and share stories.
-- View your available stories.
-- Share updates through your profile.
 
-### 👤 User Profile
-- Personalized user profile.
-- Profile picture and cover photo.
-- Username and profile information.
-- Edit profile options.
-- Posts statistics.
-- Likes statistics.
-- Uploaded photos statistics.
-- Stories statistics.
+আপনার দৈনন্দিন মুহূর্তগুলো Stories-এর মাধ্যমে Share করুন।
+
+📸 Stories তৈরি করুন।
+
+👀 Available Stories দেখুন।
+
+❤️ নিজের Profile থেকে Updates Share করুন।
+
+### 👤 My Profile
+
+নিজের একটি সুন্দর Personal Profile পরিচালনা করুন।
+
+👤 Profile Picture।
+
+🖼️ Cover Photo।
+
+✍️ Username এবং Profile Information।
+
+📊 Posts Statistics।
+
+❤️ Likes Statistics।
+
+📸 Uploaded Photos Statistics।
+
+📖 Stories Statistics।
+
+⚙️ Profile Editing Options।
 
 ### ❤️ Social Interaction
-- Like posts.
-- Explore user content.
-- Manage your own posts.
-- View your social activity.
 
----
+অন্যদের সঙ্গে Social Interaction উপভোগ করুন।
 
-## 🧰 9. ADDITIONAL TOOLS & FEATURES
+❤️ Posts Like করুন।
 
-IN CLOUD-এর Navigation Menu-তে রয়েছে আরও অনেক দরকারি Options এবং Shortcuts।
+👥 অন্যদের Content Explore করুন।
 
-⏰ Alarm – Quick access to alarm.
+📰 Social Feed দেখুন।
 
-🧭 Compass – Compass tool.
+📊 নিজের Activity সম্পর্কে জানুন।
 
-📘 Facebook – Quick Facebook access.
+━━━━━━━━━━━━━━━━━━━━
 
-▶️ YouTube – Quick YouTube access.
+# 🧰 9. ADDITIONAL TOOLS & FEATURES
 
-🎮 Games – Games section.
+IN CLOUD PRO-এর Navigation Menu-তে রয়েছে বিভিন্ন Additional Tools এবং Shortcuts।
 
-📌 Pinterest – Pinterest shortcut.
+### 📝 Notes
+গুরুত্বপূর্ণ তথ্য, ব্যক্তিগত নোট এবং প্রয়োজনীয় বিষয় লিখে রাখার জন্য Notes Section।
 
-🌐 Browser – Browse the web.
+### 💬 Chat
+Communication-এর জন্য Chat Section।
 
-🎥 Screen Record – Screen recording shortcut.
+### 🏆 Leaderboard
+Leaderboard Section-এর মাধ্যমে User Ranking দেখতে পারবেন।
 
-🧮 Calculator – Built-in calculator shortcut.
+### 🛍️ Marketplace
+Marketplace Section থেকে উপলব্ধ Marketplace Features ব্যবহার করতে পারবেন।
 
-🏷️ Tags – Coming Soon.
+### ☁️ Cloud Block
+অতিরিক্ত Cloud-Related Section।
 
-📝 Notes – Keep your important notes.
+### 🧮 Calculator
+দৈনন্দিন হিসাব-নিকাশের জন্য Calculator Shortcut।
 
-💬 Chat – Communication section.
+### ⏰ Alarm
+প্রয়োজনীয় সময়ের জন্য Alarm Shortcut।
 
-🏆 Leaderboard – User ranking section.
+### 🧭 Compass
+দিক নির্ণয়ের জন্য Compass Tool।
 
-👤 Activity – User activity section.
+### 🌐 Browser
+দ্রুত Web Browsing-এর জন্য Browser Shortcut।
 
-🛍️ Marketplace – Marketplace section.
+### 🎥 Screen Record
+Screen Recording-এর জন্য Shortcut।
 
-☁️ Cloud Block – Additional cloud-related section.
+### 📘 Facebook
+Facebook-এ দ্রুত প্রবেশের Shortcut।
 
----
+### ▶️ YouTube
+YouTube Access করার Shortcut।
 
-## 🎨 10. PREMIUM GLASSMORPHISM UI DESIGN
+### 📌 Pinterest
+Pinterest Access করার Shortcut।
 
-One of the most attractive parts of IN CLOUD is its beautiful and modern user interface!
+### 🎮 Games
+Games Section থেকে উপলব্ধ Game Features ব্যবহার করতে পারবেন।
 
-IN CLOUD features a Glassmorphism-inspired design with transparent panels, frosted glass effects, elegant rounded corners, and a premium dark appearance.
+### 📊 Activity
+নিজের Activity Section দেখতে পারবেন।
 
-✨ **UI Design Highlights:**
+### 🏷️ Tags
+Tags Feature – Coming Soon!
 
-🔮 Modern Glassmorphism UI.
+━━━━━━━━━━━━━━━━━━━━
 
-🌫️ Transparent & Frosted Glass Panels.
+# 🎨 10. PREMIUM GLASSMORPHISM UI DESIGN
 
-🌙 Premium Dark Theme.
+IN CLOUD PRO-এর অন্যতম বিশেষ আকর্ষণ হলো এর Modern Glassmorphism Inspired User Interface।
 
-🟠 Beautiful Gradient Buttons.
+অ্যাপটির ডিজাইনে রয়েছে Transparent UI Elements, Frosted Glass Effects, Premium Dark Theme এবং সুন্দর Rounded Components।
 
-💎 Elegant Rounded Cards.
+এটি সাধারণ Traditional Interface থেকে আলাদা একটি Modern Visual Experience দেওয়ার জন্য ডিজাইন করা হয়েছে।
 
-🎨 Colorful Modern Icons.
+### 💎 UI Design Highlights
 
-📱 Clean and Organized Layout.
+🔮 Modern Glassmorphism Design।
 
-🖼️ Modern Photo Gallery Grid.
+🌫️ Transparent Glass Panels।
 
-👤 Beautiful Profile Interface.
+🧊 Frosted Glass Effects।
 
-📊 Attractive Storage Progress Bar.
+🌙 Premium Dark Theme।
 
-✨ Glass-style Navigation Drawer.
+🟠 Beautiful Gradient Buttons।
 
-### 🚀 Smooth User Experience
+💎 Smooth Rounded Cards।
 
-The interface is designed to provide a modern and visually comfortable experience.
+🎨 Modern Colorful Icons।
 
-Smooth animations, elegant transitions, modern components, and beautiful visual effects help create an enjoyable navigation experience.
+📱 Clean and Organized Layout।
 
-**Modern • Transparent • Elegant • Smooth • User-Friendly**
+🖼️ Beautiful Photo Gallery Grid।
 
----
+👤 Elegant Profile Interface।
 
-## 🔐 11. ACCOUNT & PRIVACY
+📊 Attractive Storage Progress Bar।
 
-IN CLOUD allows users to create an account using their email address and a separate application password.
+✨ Stylish Navigation Drawer।
 
-🔒 Use your email address for registration.
+🌈 Modern Visual Elements।
 
-🔒 Create a separate password for IN CLOUD.
+### 🚀 Smooth Animations & User Experience
 
-🔒 Never use your original Gmail password as your app password.
+IN CLOUD PRO-এর Interface-এ Modern Design Elements এবং Smooth Navigation Experience-এর ওপর গুরুত্ব দেওয়া হয়েছে।
 
-🔒 Never share your password or OTP with anyone.
+✨ Smooth UI Transitions।
 
-**Your Gmail password and your IN CLOUD password should always be different!**
+✨ Attractive Visual Effects।
 
----
+✨ Modern Card Layouts।
 
-## 🌟 12. WHY CHOOSE IN CLOUD?
+✨ Beautiful Navigation Interface।
 
-Why use multiple platforms when you can access many useful features in one place?
+✨ Consistent UI Components।
 
-❤️ Store your favorite memories.
+✨ Comfortable User Experience।
 
-📸 Upload and manage photos.
+**Modern • Premium • Transparent • Elegant • User-Friendly**
 
-🎬 Keep videos organized.
+━━━━━━━━━━━━━━━━━━━━
 
-🎵 Store music and audio files.
+# 🔐 11. ACCOUNT REGISTRATION & SECURITY AWARENESS
 
-📄 Keep important documents together.
+IN CLOUD PRO-তে ব্যবহারকারীরা নিজেদের Email Address ব্যবহার করে Account তৈরি করতে পারবেন।
 
-📂 Organize content with folders.
+### 🔑 Account Creation Guide
 
-⭐ Save your favorite items.
+1️⃣ নিজের Email Address ব্যবহার করুন।
 
-🎁 Expand available photo slots by watching ads.
+2️⃣ IN CLOUD PRO-এর জন্য আলাদা Password তৈরি করুন।
 
-👥 Connect through social features.
+3️⃣ Account Registration সম্পন্ন করুন।
 
-📝 Create posts and stories.
+4️⃣ নিজের Account ব্যবহার করে Application Explore করুন।
 
-💬 Access additional tools and sections.
+### ⚠️ Important Security Information
 
-🎨 Enjoy a beautiful Glassmorphism interface.
+🔒 কখনোই নিজের আসল Gmail Password অ্যাপের Registration Password হিসেবে ব্যবহার করবেন না।
 
-☁️ Experience a modern multi-functional platform.
+🔒 IN CLOUD PRO-এর জন্য আলাদা Password ব্যবহার করুন।
 
----
+🔒 নিজের Password এবং OTP অন্য কারও সঙ্গে Share করবেন না।
 
-## 🚀 13. GETTING STARTED
+🔒 অপরিচিত কাউকে Account Access দেবেন না।
 
-Getting started with IN CLOUD is simple!
+**Your Account, Your Responsibility! ❤️**
 
-1. Visit the official website or GitHub repository.
-2. Download the available application.
-3. Install and open IN CLOUD.
-4. Create your account using your email address.
-5. Set a separate application password.
-6. Explore the available features.
-7. Upload your photos, videos, music, and files.
-8. Enjoy your digital experience!
+━━━━━━━━━━━━━━━━━━━━
 
----
+# 🌟 12. WHY CHOOSE IN CLOUD PRO?
 
-## 🌍 14. OFFICIAL LINKS
+একটি Application-এর মধ্যে অনেকগুলো দরকারি Features উপভোগ করার সুযোগ!
+
+❤️ Personal Photo Storage।
+
+🎬 Video Storage।
+
+🎵 Music & Audio Collection।
+
+📄 PDF & Document Storage।
+
+📂 Folder Management।
+
+⭐ Favorites Management।
+
+🎁 Rewarded Ads-Based Extra Photo Slots।
+
+👥 Social Feed & Community।
+
+📝 Create Posts।
+
+📖 Stories Sharing।
+
+👤 Personal User Profile।
+
+💬 Chat Section।
+
+🏆 Leaderboard।
+
+🛍️ Marketplace।
+
+🧮 Additional Useful Tools।
+
+🎨 Modern Glassmorphism UI।
+
+🌙 Premium Dark Interface।
+
+🚀 Modern User Experience।
+
+**One App – Multiple Features – A Better Digital Experience!**
+
+━━━━━━━━━━━━━━━━━━━━
+
+# 🚀 13. GETTING STARTED
+
+IN CLOUD PRO ব্যবহার শুরু করতে নিচের Steps অনুসরণ করুন।
+
+1️⃣ Official Website অথবা GitHub Repository Visit করুন।
+
+2️⃣ Available Application Download করুন।
+
+3️⃣ Application Install করে Open করুন।
+
+4️⃣ নিজের Email Address দিয়ে Account তৈরি করুন।
+
+5️⃣ IN CLOUD PRO-এর জন্য আলাদা Password সেট করুন।
+
+6️⃣ Application-এর বিভিন্ন Sections Explore করুন।
+
+7️⃣ নিজের Photos, Videos, Music এবং Documents Upload করুন।
+
+8️⃣ অন্যান্য Features উপভোগ করুন।
+
+━━━━━━━━━━━━━━━━━━━━
+
+# 🌍 14. OFFICIAL LINKS
 
 📱 **GitHub Repository:**
 
@@ -293,47 +423,60 @@ https://github.com/mdnazrul9xt-arch/In_Cloud_photo
 
 https://incloud.auraffx.bond/
 
----
+━━━━━━━━━━━━━━━━━━━━
 
-## 📌 15. IMPORTANT INFORMATION
+# 📌 15. IMPORTANT INFORMATION
 
-- Available features may depend on the current application version.
-- Additional photo slots are available through the rewarded advertisement system.
-- Each successful rewarded advertisement provides 5 additional photo slots.
-- Actual storage availability depends on the configured platform limits and service availability.
-- Some sections may be under development.
-- Tags is currently marked as Coming Soon.
-- Keep your account credentials private.
+🔹 Available Features Application Version অনুযায়ী পরিবর্তিত হতে পারে।
 
----
+🔹 Additional Photo Slots Rewarded Advertisement System-এর মাধ্যমে পাওয়া যায়।
 
-## 👨‍💻 16. DEVELOPER INFORMATION
+🔹 প্রতিটি সফল Rewarded Advertisement-এর বিনিময়ে ৫টি অতিরিক্ত Photo Slots পাওয়া যায়।
 
-**Project Name:** IN CLOUD
+🔹 Actual Storage Availability নির্ভর করে Platform-এর Configured Limits এবং Service Availability-এর ওপর।
 
-**Developer:** Nazrul Islam
+🔹 কিছু Features বর্তমানে Development পর্যায়ে থাকতে পারে।
 
-**Repository:** In_Cloud_photo
+🔹 Tags Feature বর্তমানে Coming Soon হিসেবে রয়েছে।
 
-**Platform:** Android / Web
+🔹 নিজের Account Credentials সবসময় নিরাপদে রাখুন।
 
-**Project Type:** Cloud Storage & Social Platform
+━━━━━━━━━━━━━━━━━━━━
 
----
+# 👨‍💻 16. DEVELOPER INFORMATION
 
-## ❤️ THANK YOU FOR VISITING IN CLOUD!
+☁️ **Project Name:** IN CLOUD PRO
 
-Your support, feedback, and suggestions help make IN CLOUD better.
+👨‍💻 **Developer:** Nazrul Islam
 
-If you like the project, explore its features and share your valuable feedback.
+📂 **Repository:** In_Cloud_photo
 
-We are continuously working to make the platform more useful and enjoyable.
+🌐 **Official Website:** https://incloud.auraffx.bond/
 
-### ☁️ IN CLOUD
-**Your Digital World, All in One Place!**
+📱 **Project Type:** Cloud Storage & Social Platform
+
+━━━━━━━━━━━━━━━━━━━━
+
+# ❤️ THANK YOU FOR VISITING IN CLOUD PRO!
+
+আপনাদের ভালোবাসা, Support, Feedback এবং Suggestions আমাদের Platform-কে আরও উন্নত করতে সাহায্য করবে।
+
+আপনারা IN CLOUD PRO ব্যবহার করে নিজেদের অভিজ্ঞতা এবং মূল্যবান মতামত জানাতে পারেন।
+
+আমাদের লক্ষ্য একটি সুন্দর, আধুনিক এবং Multi-Functional Digital Platform তৈরি করা।
+
+☁️ **IN CLOUD PRO**
 
 📸 Store Your Memories.
-🎵 Keep Your Music.
-📁 Manage Your Files.
+
+🎬 Keep Your Videos.
+
+🎵 Save Your Music.
+
+📁 Organize Your Files.
+
 👥 Connect With Others.
-❤️ Enjoy Your Digital Life!
+
+❤️ Enjoy Your Digital World!
+
+### 🚀 IN CLOUD PRO – Your Digital World, All in One Place!
