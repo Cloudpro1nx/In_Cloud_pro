@@ -480,3 +480,169 @@ https://incloud.auraffx.bond/
 ❤️ Enjoy Your Digital World!
 
 ### 🚀 IN CLOUD PRO – Your Digital World, All in One Place!
+
+
+# 👨‍💻 ABOUT THE DEVELOPER
+
+## ❤️ Meet the Developer
+
+Hello Everyone! 👋
+
+My name is **Mohammad Nazrul Islam**. I am an independent developer from **Bangladesh** 🇧🇩.
+
+I am passionate about technology, application development, modern UI/UX design, and creating useful digital platforms.
+
+I enjoy exploring new technologies and building creative projects that can provide useful experiences for people.
+
+My goal is to develop modern, user-friendly, and feature-rich applications.
+
+---
+
+## ☁️ ABOUT MY PROJECT – IN CLOUD PRO
+
+**IN CLOUD PRO** is my multi-functional Cloud Storage & Social Platform project.
+
+🚀 The main goal of this project is to bring multiple useful digital features together in one application.
+
+### ✨ What Can You Explore in IN CLOUD PRO?
+
+📸 Photo Cloud Storage  
+🎬 Video Storage  
+🎵 Music & Audio Storage  
+📁 Files & Documents Management  
+⭐ Favorites  
+🎁 Rewarded Ads-Based Extra Photo Slots  
+👥 Social Feed  
+📝 Create Posts  
+📖 Stories  
+👤 User Profiles  
+💬 Chat  
+📝 Notes  
+🏆 Leaderboard  
+🛍️ Marketplace  
+🧮 Calculator  
+⏰ Alarm  
+🧭 Compass  
+🌐 Browser  
+🎥 Screen Recording Shortcut  
+
+### 🎨 Design & User Experience
+
+IN CLOUD PRO features a modern Glassmorphism-inspired interface.
+
+💎 Transparent UI Elements  
+🌫️ Frosted Glass Effects  
+🌙 Premium Dark Theme  
+✨ Modern Visual Design  
+🎨 Gradient UI Components  
+📱 Smooth Navigation Experience  
+
+My vision is to create a beautiful and useful digital platform with a modern user experience.
+
+---
+
+## 🌍 DEVELOPER INFORMATION
+
+👨‍💻 **Developer Name:** Mohammad Nazrul Islam
+
+🇧🇩 **Country:** Bangladesh
+
+☁️ **Main Project:** IN CLOUD PRO
+
+📂 **GitHub Repository:**  
+https://github.com/mdnazrul9xt-arch/In_Cloud_photo
+
+🌐 **Official Website:**  
+https://incloud.auraffx.bond/
+
+---
+
+# 🔎 SEO KEYWORDS & SEARCH TAGS
+
+These keywords describe the project and may help people discover it through relevant searches.
+
+### ☁️ Main App Keywords
+
+- IN CLOUD PRO
+- In Cloud Pro App
+- In Cloud Photo Storage
+- In Cloud Backup App
+- Cloud Storage Application
+- Personal Cloud Storage
+- Online Cloud Storage
+- Free Photo Storage
+- Photo Backup Application
+- Android Cloud Storage
+
+### 📸 Photo & File Storage Keywords
+
+- Online Photo Backup
+- Photo Storage App
+- Video Storage App
+- Music Storage App
+- Audio Storage App
+- PDF Storage
+- Document Storage
+- File Manager App
+- Personal File Backup
+- Cloud Photo Gallery
+- Online File Manager
+- Digital File Storage
+
+### 🎨 UI & Design Keywords
+
+- Glassmorphism UI
+- Transparent UI Design
+- Modern Android UI
+- Premium Dark Theme
+- Frosted Glass UI
+- Modern App Interface
+- Smooth UI Design
+- Gradient UI Design
+- Modern Mobile Application
+
+### 👥 Social Features Keywords
+
+- Social Media Platform
+- Social Feed App
+- Stories Sharing
+- User Profile System
+- Social Networking App
+- Community Platform
+- Multi Functional Application
+
+### 🚀 Additional Search Keywords
+
+- Rewarded Ads Storage
+- Expandable Photo Storage
+- Multi Purpose Android App
+- Modern Cloud Platform
+- Digital Storage Platform
+- All In One Application
+- Cloud Storage Project
+- IN CLOUD PRO Bangladesh
+
+---
+
+# 🏷️ GITHUB REPOSITORY TOPICS
+
+Use these relevant topics in your GitHub repository:
+
+cloud-storage, photo-storage, photo-backup, file-manager, android-app, social-media, glassmorphism, modern-ui, dark-theme, document-storage, video-storage, music-storage, rewarded-ads, cloud-platform, in-cloud-pro
+
+---
+
+## ❤️ MY VISION
+
+I believe technology should make everyday life easier.
+
+Through IN CLOUD PRO, I want to bring useful storage, social, and digital features together in one modern platform.
+
+I will continue exploring new ideas, improving the application, and working toward a better digital experience.
+
+Thank you for visiting my GitHub profile and exploring my project!
+
+### ☁️ IN CLOUD PRO
+**Your Digital World, All in One Place!**
+
+Made with ❤️ by Mohammad Nazrul Islam 🇧🇩
